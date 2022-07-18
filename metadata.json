@@ -1,0 +1,6 @@
+{
+  "name": "introductory-training",
+  "identifier": "com.metrological.app.introductorytraining",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
